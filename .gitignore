@@ -18,7 +18,6 @@ output/
 # Static and temporary files
 static/sw.js
 static/workbox-*.js
-public/
 .cache/
 coverage/
 build/
